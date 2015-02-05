@@ -1,4 +1,4 @@
-"""Construct HTML sitemap via WordPress XML-RPC API"""
+"""Construct HTML sitemap from WordPress pages via XML-RPC API"""
 
 import argparse
 import getpass

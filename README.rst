@@ -1,3 +1,7 @@
+wp_sitemap
+==========
+Construct HTML sitemap from WordPress pages via XML-RPC API.
+
 Requirements
 ============
 * Python 2.7 (for argparse, at least)
