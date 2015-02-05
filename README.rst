@@ -25,5 +25,7 @@ Notes
 =====
 You will be prompted interactively for the WordPress user's password.
 
+The HTML sitemap will be printed to stdout.
+
 The output format is defined by the ``render_page`` function. It's very simple
 and easy enough to hack to produce a different output format.
